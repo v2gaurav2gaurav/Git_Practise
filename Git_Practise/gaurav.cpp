@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class B
+class AB
 {
 	public:
 		void fun()
@@ -11,7 +11,7 @@ class B
 
 int main()
 {
-	B obj;
+	AB obj;
 	obj.fun();
 	return 0;
 }
