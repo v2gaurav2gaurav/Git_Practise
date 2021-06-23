@@ -12,6 +12,6 @@ class ABC
 int main()
 {
 	ABC obj;
-	obj.fun();
+	obsj.fun();
 	return 0;
 }
