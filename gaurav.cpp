@@ -12,6 +12,7 @@ class ABC
 int main()
 {
 	ABC obj;
-	objsj.fun();
+	obksj.fun();
+>>>>>>> develop
 	return 0;
 }
